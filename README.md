@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Problems%20Solved-5-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Problems%20Solved-8-brightgreen.svg">
     <img src="https://img.shields.io/badge/Language-C++,_Python_3-red.svg">
 </p>
 
@@ -20,3 +20,6 @@
 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | <p align="center"><ul><li>[C++](./Algorithms/Shuffle_the_Array/main.cpp)</li><li>[Python 3](./Algorithms/Shuffle_the_Array/main.py)</li><ul></p> | **Easy**
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | <p align="center"><ul><li>[C++](./Algorithms/Number_of_Good_Pairs/main.cpp)</li><li>[Python 3](./Algorithms/Number_of_Good_Pairs/main.py)</li><ul></p> | **Easy**
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | <p align="center"><ul><li>[C++](./Algorithms/Defanging_an_IP_Address/main.cpp)</li><li>[Python 3](./Algorithms/Defanging_an_IP_Address/main.py)</li><ul></p> | **Easy**
+| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | <p align="center"><ul><li>[C++](./Algorithms/Jewels_and_Stones/main.cpp)</li><li>[Python 3](./Algorithms/Jewels_and_Stones/main.py)</li><ul></p> | **Easy**
+| [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | <p align="center"><ul><li>[C++](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.cpp)</li><li>[Python 3](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.py)</li><ul></p> | **Easy**
+| [Shuffle String](https://leetcode.com/problems/shuffle-string/) | <p align="center"><ul><li>[C++](./Algorithms/Shuffle_String/main.cpp)</li><li>[Python 3](./Algorithms/Shuffle_String/main.py)</li><ul></p> | **Easy**
