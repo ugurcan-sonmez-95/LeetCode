@@ -9,10 +9,10 @@
 
 ## Problems
 
-* [Algorithms_Easy](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithmseasy)
-* [Algorithms_Medium](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithmsmedium)
+* <a href="https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms-easy">Algorithms-Easy</a>
+* <a href="https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms-medium">Algorithms-Medium</a>
 
-### Algorithms_Easy
+### <a name="algorithms-easy">Algorithms-Easy</a>
 
 | Name | Solution 
 | ---- | --------
@@ -25,7 +25,7 @@
 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | <p align="center"><ul><li>[C++](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.cpp)</li><li>[Python 3](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.py)</li><ul></p> 
 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | <p align="center"><ul><li>[C++](./Algorithms/Shuffle_String/main.cpp)</li><li>[Python 3](./Algorithms/Shuffle_String/main.py)</li><ul></p> 
 
-### Algorithms_Medium
+### <a name="algorithms-medium">Algorithms-Medium</a>
 
 | Name | Solution 
 | ---- | --------
