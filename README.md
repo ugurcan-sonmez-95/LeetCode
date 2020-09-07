@@ -9,10 +9,10 @@
 
 ## Problems
 
-* [Algorithms-Easy](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms-easy)
-* [Algorithms-Medium](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms-medium)
+* [Algorithms-Easy](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms_easy)
+* [Algorithms-Medium](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms_medium)
 
-### Algorithms-Easy
+### Algorithms_Easy
 
 | Name | Solution 
 | ---- | --------
@@ -25,7 +25,7 @@
 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | <p align="center"><ul><li>[C++](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.cpp)</li><li>[Python 3](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.py)</li><ul></p> 
 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | <p align="center"><ul><li>[C++](./Algorithms/Shuffle_String/main.cpp)</li><li>[Python 3](./Algorithms/Shuffle_String/main.py)</li><ul></p> 
 
-### Algorithms-Medium
+### Algorithms_Medium
 
 | Name | Solution 
 | ---- | --------
