@@ -9,8 +9,8 @@
 
 ## Problems
 
-* [Algorithms_Easy](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#Algorithms_Easy)
-* [Algorithms_Medium](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#Algorithms_Medium)
+* [Algorithms_Easy](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithmseasy)
+* [Algorithms_Medium](https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithmsmedium)
 
 ### Algorithms_Easy
 
