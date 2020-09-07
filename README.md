@@ -9,10 +9,10 @@
 
 ## Problems
 
-* <a href="https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms-easy">Algorithms-Easy</a>
-* <a href="https://github.com/ugurcan-sonmez-95/LeetCode_Problems#algorithms-medium">Algorithms-Medium</a>
+* <a href="#algorithms-easy">Algorithms-Easy</a>
+* <a href="#algorithms-medium">Algorithms-Medium</a>
 
-### <a name="algorithms-easy">Algorithms-Easy</a>
+### <a name="#algorithms-easy">Algorithms-Easy</a>
 
 | Name | Solution 
 | ---- | --------
