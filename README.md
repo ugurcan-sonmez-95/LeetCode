@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Problems%20Solved-13-brightgreen.svg">
     <img src="https://img.shields.io/badge/Language-C++,_Python_3-red.svg">
 </p>
 
@@ -31,3 +31,6 @@
 | ---- | --------
 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | <p align="center"><ul><li>[C++](./Algorithms/Subrectangle_Queries/main.cpp)</li><li>[Python 3](./Algorithms/Subrectangle_Queries/main.py)</li><ul></p>
 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | <p align="center"><ul><li>[C++](./Algorithms/Group_the_People_Given_the_Group_Size_They_Belong_To/main.cpp)</li><li>[Python 3](./Algorithms/Group_the_People_Given_the_Group_Size_They_Belong_To/main.py)</li><ul></p>
+| [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | <p align="center"><ul><li>[C++](./Algorithms/Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/main.cpp)</li><li>[Python 3](./Algorithms/Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/main.py)</li><ul></p>
+| [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | <p align="center"><ul><li>[C++](./Algorithms/Max_Increase_to_Keep_City_Skyline/main.cpp)</li><li>[Python 3](./Algorithms/Max_Increase_to_Keep_City_Skyline/main.py)</li><ul></p>
+| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | <p align="center"><ul><li>[C++](./Algorithms/Deepest_Leaves_Sum/main.cpp)</li><li>[Python 3](./Algorithms/Deepest_Leaves_Sum/main.py)</li><ul></p>
