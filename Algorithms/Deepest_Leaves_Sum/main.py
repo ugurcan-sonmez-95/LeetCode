@@ -9,7 +9,7 @@
 class Solution:
     def calculateDeepest(self, root, level):
         if root == None:
-            return;
+            return
         if level == self.max_level:
             self.deepest_sum += root.val
         elif level > self.max_level:
