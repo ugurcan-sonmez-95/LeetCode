@@ -4,7 +4,7 @@
 
 class Solution {
 public:
-    int numTeams(vector<int> &rating) {
+    int numTeams(std::vector<int> &rating) {
         int count {};
         for (int i{1}; i < rating.size()-1; i++) {
             int less_left {}, less_right {};
