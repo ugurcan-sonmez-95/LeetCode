@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Problems%20Solved-14-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen.svg">
     <img src="https://img.shields.io/badge/Language-C++,_Python_3-red.svg">
 </p>
 
@@ -35,3 +35,4 @@
 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | <p align="center"><ul><li>[C++](./Algorithms/Max_Increase_to_Keep_City_Skyline/main.cpp)</li><li>[Python 3](./Algorithms/Max_Increase_to_Keep_City_Skyline/main.py)</li><ul></p>
 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | <p align="center"><ul><li>[C++](./Algorithms/Deepest_Leaves_Sum/main.cpp)</li><li>[Python 3](./Algorithms/Deepest_Leaves_Sum/main.py)</li><ul></p>
 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | <p align="center"><ul><li>[C++](./Algorithms/Sum_of_Nodes_with_Even_Valued_Grandparent/main.cpp)</li><li>[Python 3](./Algorithms/Sum_of_Nodes_with_Even_Valued_Grandparent/main.py)</li><ul></p>
+| [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | <p align="center"><ul><li>[C++](./Algorithms/Count_Number_of_Teams/main.cpp)</li><li>[Python 3](./Algorithms/Count_Number_of_Teams/main.py)</li><ul></p>
