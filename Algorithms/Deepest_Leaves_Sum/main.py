@@ -6,7 +6,13 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
+    def deepestLeavesSum(self, root: TreeNode) -> int:
+        self.max_level, level, self.deepest_sum = 1, 1, 0
+        self.calculateDeepest(root, level)
+        return self.deepest_sum
+    
     def calculateDeepest(self, root, level):
         if root == None:
             return
@@ -17,8 +23,3 @@ class Solution:
             self.max_level = level
         self.calculateDeepest(root.left, level+1)
         self.calculateDeepest(root.right, level+1)
-    
-    def deepestLeavesSum(self, root: TreeNode) -> int:
-        self.max_level, level, self.deepest_sum = 1, 1, 0
-        self.calculateDeepest(root, level)
-        return self.deepest_sum

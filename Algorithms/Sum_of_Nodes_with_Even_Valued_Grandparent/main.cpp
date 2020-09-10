@@ -11,8 +11,16 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
+    int sumEvenGrandparent(TreeNode *root) {
+        TreeNode *parent = nullptr, *gparent = nullptr;
+        int sum {};
+        calculateSum(root, parent, gparent, sum);
+        return sum;
+    }
+    
     void calculateSum(TreeNode *root, TreeNode *parent, TreeNode *gparent, int &sum) {
         if (root == nullptr) 
             return;
@@ -20,12 +28,5 @@ public:
             sum += root->val;
         calculateSum(root->left, root, parent, sum);
         calculateSum(root->right, root, parent, sum);
-    }
-    
-    int sumEvenGrandparent(TreeNode *root) {
-        TreeNode *parent = nullptr, *gparent = nullptr;
-        int sum {};
-        calculateSum(root, parent, gparent, sum);
-        return sum;
     }
 };

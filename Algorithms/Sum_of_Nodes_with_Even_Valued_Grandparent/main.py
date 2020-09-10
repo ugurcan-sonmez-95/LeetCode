@@ -6,7 +6,13 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
+    def sumEvenGrandparent(self, root: TreeNode) -> int:
+        parent, gparent = None, None
+        result = self.calculateSum(root, parent, gparent)
+        return result
+    
     def calculateSum(self, root, parent, gparent):
         total_sum = 0
         if root == None:
@@ -16,8 +22,3 @@ class Solution:
         total_sum += self.calculateSum(root.left, root, parent)
         total_sum += self.calculateSum(root.right, root, parent)
         return total_sum
-    
-    def sumEvenGrandparent(self, root: TreeNode) -> int:
-        parent, gparent = None, None
-        result = self.calculateSum(root, parent, gparent)
-        return result

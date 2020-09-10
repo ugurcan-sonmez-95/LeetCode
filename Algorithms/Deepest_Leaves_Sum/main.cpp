@@ -11,8 +11,15 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
+    int deepestLeavesSum(TreeNode* root) {
+        int level {1}, sum {}, max_level {1};
+        calculateDeepest(root, level, sum, max_level);
+        return sum;
+    }
+    
     void calculateDeepest(TreeNode *root, int level, int &sum, int &max_level) {
         if (root == nullptr)
             return;
@@ -24,11 +31,5 @@ public:
         }
         calculateDeepest(root->left, level+1, sum, max_level);
         calculateDeepest(root->right, level+1, sum, max_level);
-    }
-
-    int deepestLeavesSum(TreeNode* root) {
-        int level {1}, sum {}, max_level {1};
-        calculateDeepest(root, level, sum, max_level);
-        return sum;
     }
 };

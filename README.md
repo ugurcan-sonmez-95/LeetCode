@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Problems%20Solved-16-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Problems%20Solved-18-brightgreen.svg">
     <img src="https://img.shields.io/badge/Language-C++,_Python_3-red.svg">
 </p>
 
@@ -24,6 +24,7 @@
 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | <p align="center"><ul><li>[C++](./Algorithms/Jewels_and_Stones/main.cpp)</li><li>[Python 3](./Algorithms/Jewels_and_Stones/main.py)</li><ul></p> 
 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | <p align="center"><ul><li>[C++](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.cpp)</li><li>[Python 3](./Algorithms/Number_of_Steps_to_Reduce_a_Number_to_Zero/main.py)</li><ul></p> 
 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | <p align="center"><ul><li>[C++](./Algorithms/Shuffle_String/main.cpp)</li><li>[Python 3](./Algorithms/Shuffle_String/main.py)</li><ul></p> 
+| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | <p align="center"><ul><li>[C++](./Algorithms/How_Many_Numbers_Are_Smaller_Than_the_Current_Number/main.cpp)</li><li>[Python 3](./Algorithms/How_Many_Numbers_Are_Smaller_Than_the_Current_Number/main.py)</li><ul></p>
 
 ### Algorithms-Medium
 
@@ -37,3 +38,4 @@
 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | <p align="center"><ul><li>[C++](./Algorithms/Sum_of_Nodes_with_Even_Valued_Grandparent/main.cpp)</li><li>[Python 3](./Algorithms/Sum_of_Nodes_with_Even_Valued_Grandparent/main.py)</li><ul></p>
 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | <p align="center"><ul><li>[C++](./Algorithms/Count_Number_of_Teams/main.cpp)</li><li>[Python 3](./Algorithms/Count_Number_of_Teams/main.py)</li><ul></p>
 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | <p align="center"><ul><li>[C++](./Algorithms/Queries_on_a_Permutation_With_Key/main.cpp)</li><li>[Python 3](./Algorithms/Queries_on_a_Permutation_With_Key/main.py)</li><ul></p>
+| [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | <p align="center"><ul><li>[C++](./Algorithms/Binary_Search_Tree_to_Greater_Sum_Tree/main.cpp)</li><li>[Python 3](./Algorithms/Binary_Search_Tree_to_Greater_Sum_Tree/main.py)</li><ul></p>
