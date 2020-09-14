@@ -24,7 +24,7 @@ public:
             calculateSums(root->left);
     }
     
-    TreeNode* bstToGst(TreeNode* root) {
+    TreeNode* bstToGst(TreeNode *root) {
         calculateSums(root);
         return root;
     }

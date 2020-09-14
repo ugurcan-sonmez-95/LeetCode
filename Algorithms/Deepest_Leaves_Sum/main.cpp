@@ -14,7 +14,7 @@
 
 class Solution {
 public:
-    int deepestLeavesSum(TreeNode* root) {
+    int deepestLeavesSum(TreeNode *root) {
         int level {1}, sum {}, max_level {1};
         calculateDeepest(root, level, sum, max_level);
         return sum;
