@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    int maxIncreaseKeepingSkyline(std::vector<std::vector<int>> &grid) {
+    int maxIncreaseKeepingSkyline(const std::vector<std::vector<int>> &grid) {
         std::vector<int> max_row(grid.size(), 0);
         std::vector<int> max_col(grid[0].size(), 0);
         for (int i{}; i < grid.size(); i++) {

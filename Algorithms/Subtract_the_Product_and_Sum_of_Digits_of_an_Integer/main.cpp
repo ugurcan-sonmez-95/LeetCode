@@ -9,7 +9,7 @@ public:
             product *= n % 10;
             n /= 10;
         }
-        int diff {product - sum};
+        const int diff {product - sum};
         return diff;
     }
 };

@@ -14,11 +14,11 @@
 
 class Solution {
 public:
-    TreeNode* constructMaximumBinaryTree(std::vector<int> &nums) {
+    TreeNode* constructMaximumBinaryTree(const std::vector<int> &nums) {
         return findMax(nums, 0, nums.size()-1);
     }
     
-    TreeNode* findMax(std::vector<int> &nums, int left, int right) {
+    TreeNode* findMax(const std::vector<int> &nums, const int left, const int right) {
         if (left > right) 
             return nullptr;
         int maxIdx {left}, maxValue {nums[left]};

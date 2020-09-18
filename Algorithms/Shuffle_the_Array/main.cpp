@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    std::vector<int> shuffle(std::vector<int> &nums, int n) {
+    std::vector<int> shuffle(const std::vector<int> &nums, const int n) {
         std::vector<int> newVec;
         for (int i{}; i < n; i++) {
             newVec.push_back(nums[i]);

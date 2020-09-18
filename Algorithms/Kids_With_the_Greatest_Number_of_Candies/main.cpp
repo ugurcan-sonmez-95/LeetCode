@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    std::vector<bool> kidsWithCandies(std::vector<int> &candies, int extraCandies) {
+    std::vector<bool> kidsWithCandies(std::vector<int> &candies, const int extraCandies) {
         std::vector<bool> checkGreatest;
         for (auto &num: candies) {
             num += extraCandies;

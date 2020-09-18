@@ -14,13 +14,14 @@
 
 class Solution {
 public:
-    int deepestLeavesSum(TreeNode *root) {
-        int level {1}, sum {}, max_level {1};
+    int deepestLeavesSum(TreeNode* root) {
+        const int level {1}; 
+        int sum {}, max_level {1};
         calculateDeepest(root, level, sum, max_level);
         return sum;
     }
     
-    void calculateDeepest(TreeNode *root, int level, int &sum, int &max_level) {
+    void calculateDeepest(TreeNode *root, const int level, int &sum, int &max_level) {
         if (root == nullptr)
             return;
         if (level == max_level)

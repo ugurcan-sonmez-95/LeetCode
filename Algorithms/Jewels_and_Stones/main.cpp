@@ -2,9 +2,9 @@
 
 class Solution {
 public:
-    int numJewelsInStones(std::string J, std::string S) {
+    int numJewelsInStones(const std::string &J, const std::string &S) {
         int count {};
-        for (auto ch: S) {
+        for (auto &ch: S) {
             auto find = std::find(J.begin(), J.end(), ch);
             if (find != J.end())
                 count++;

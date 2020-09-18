@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    std::string defangIPaddr(std::string address) {
+    std::string defangIPaddr(const std::string &address) {
         std::string finalStr;
         for (int i{}; i < address.size(); i++) {
             if (address[i] == '.')
