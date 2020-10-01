@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Problems%20Solved-24-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Problems%20Solved-25-brightgreen.svg">
     <img src="https://img.shields.io/badge/Language-C++,_Python_3-red.svg">
 </p>
 
@@ -45,3 +45,9 @@
 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | <p align="center"><ul><li>[C++](./Algorithms/Maximum_Binary_Tree/main.cpp)</li><li>[Python 3](./Algorithms/Maximum_Binary_Tree/main.py)</li><ul></p>
 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | <p align="center"><ul><li>[C++](./Algorithms/Encode_and_Decode_TinyURL/main.cpp)</li><li>[Python 3](./Algorithms/Encode_and_Decode_TinyURL/main.py)</li><ul></p>
 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | <p align="center"><ul><li>[C++](./Algorithms/Maximum_Number_of_Coins_You_Can_Get/main.cpp)</li><li>[Python 3](./Algorithms/Maximum_Number_of_Coins_You_Can_Get/main.py)</li><ul></p>
+
+### Algorithms-Hard
+
+| Name | Solution 
+| ---- | --------
+| [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | <p align="center"><ul><li>[C++](./Algorithms/Unique_Paths_III/main.cpp)</li><li>[Python 3](./Algorithms/Unique_Paths_III/main.py)</li><ul></p>
