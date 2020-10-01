@@ -11,6 +11,7 @@
 
 * <a href="#algorithms-easy">Algorithms-Easy</a>
 * <a href="#algorithms-medium">Algorithms-Medium</a>
+* <a href="#algorithms-hard">Algorithms-Hard</a>
 
 ### Algorithms-Easy
 
