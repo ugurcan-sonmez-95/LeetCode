@@ -9,18 +9,19 @@ class Solution:
                     x, y = i, j
                 if grid[i][j] == 0:
                     zero_count += 1
+        result = self.dfs(x, y, zero_count, grid)
+        return result
         
-        def dfs(x, y, zero_count):
-            if not ((0 <= x < len(grid)) and (0 <= y < len(grid[0])) and (grid[x][y] >= 0)):
-                    return
-            if grid[x][y] == 2:
-                    self.path_count += zero_count == 0
-                    return
-            grid[x][y] = -1
-            dfs(x+1, y, zero_count-1)
-            dfs(x-1, y, zero_count-1)
-            dfs(x, y+1, zero_count-1)
-            dfs(x, y-1, zero_count-1)
-            grid[x][y] = 0
-        dfs(x, y, zero_count)
+    def dfs(self, x, y, zero_count, grid):
+        if not ((0 <= x < len(grid)) and (0 <= y < len(grid[0])) and (grid[x][y] >= 0)):
+                return
+        if grid[x][y] == 2:
+                self.path_count += zero_count == 0
+                return
+        grid[x][y] = -1
+        self.dfs(x+1, y, zero_count-1, grid)
+        self.dfs(x-1, y, zero_count-1, grid)
+        self.dfs(x, y+1, zero_count-1, grid)
+        self.dfs(x, y-1, zero_count-1, grid)
+        grid[x][y] = 0
         return self.path_count
