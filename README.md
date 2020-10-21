@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Problems%20Solved-25-brightgreen.svg">
+    <img src="https://img.shields.io/badge/Problems%20Solved-26-brightgreen.svg">
     <img src="https://img.shields.io/badge/Language-C++,_Python_3-red.svg">
 </p>
 
