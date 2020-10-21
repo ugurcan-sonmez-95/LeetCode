@@ -52,3 +52,4 @@
 | Name | Solution 
 | ---- | --------
 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | <p align="center"><ul><li>[C++](./Algorithms/Unique_Paths_III/main.cpp)</li><li>[Python 3](./Algorithms/Unique_Paths_III/main.py)</li><ul></p>
+| [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | <p align="center"><ul><li>[C++](./Algorithms/Reducing_Dishes/main.cpp)</li><li>[Python 3](./Algorithms/Reducing_Dishes/main.py)</li><ul></p>
